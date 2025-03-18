@@ -35,6 +35,7 @@ ExportedObj/
 .consulo/
 *.csproj
 *.unityproj
+*.unity
 *.sln
 *.suo
 *.tmp
@@ -52,6 +53,8 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.cs.meta
+*.jpg.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -60,6 +63,7 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+*.unity.meta
 *.unitypackage.meta
 *.app
 
@@ -72,3 +76,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/"[Ee]xamples & Extras"/*
